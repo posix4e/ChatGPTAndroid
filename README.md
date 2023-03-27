@@ -1,4 +1,6 @@
 # ChatGPTAndroid
+[![Android CI](https://github.com/posix4e/ChatGPTAndroid/actions/workflows/android.yml/badge.svg)](https://github.com/posix4e/ChatGPTAndroid/actions/workflows/android.yml)
+
 Android app using OpenAI's ChatGPT</br>
 It is possible to obtain the desired information through conversation or in-depth questions.
 
